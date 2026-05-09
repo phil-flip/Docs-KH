@@ -2,8 +2,7 @@ window.$docsify = {
     catchPluginErrors: true,
     name: 'Karloline-Hosting Documentation',
     repo: 'https://github.com/Karlo-Hosting/Docs/',
-    // causes routing issues
-    // routerMode: 'histroy',
+    routerMode: 'histroy',
     auto2top: true,
     loadSidebar: true,
     logo: './_media/logo.png', // gets converted with css for dark mode
