@@ -13,9 +13,7 @@ window.$docsify = {
         '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/_navbar.md': '/_navbar.md',
     },
-    nameLink: {
-        '/': '#/',
-    },
+    nameLink: '#/',
     toc: {
         tocMaxLevel: 3,
         target: 'h2, h3, h4, h5, h6',
