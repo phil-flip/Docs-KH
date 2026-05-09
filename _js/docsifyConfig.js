@@ -9,7 +9,6 @@ window.$docsify = {
     logo: './_media/logo.png', // gets converted with css for dark mode
     formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
     alias: {
-
         '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/_navbar.md': '/_navbar.md',
     },
